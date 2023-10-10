@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main_container {
+    background-image: url("https://thumbs.dreamstime.com/z/lightning-storm-over-city-purple-light-54648446.jpg?w=992");
+    text-align: center;
+}
+
+.image {
+    height: 250px;
+    width: 170px;
+    border-radius: 50px;
+}
+
+.cart1 {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding: 20px;
+}
+
+.paragraph {
+    font-size: 25px;
+    font-family: bold;
+    color: white;
+}
+
+
+
+
+.container {
+    padding: 10px;
+    margin: 15px;
+}
+
+
+.input {
+    height: 35px;
+    text-align: center;
+    color: green;
+    border-radius: 10px;
+}
+
+.lable {
+    color: green;
+    font-size: 30px;
+}
+
+.heading {
+    color: green;
+    font-size: 50px;
+    text-align: center;
+}
+
+.video {
+    height: 250px;
+    width: 170px;
+    border-radius: 20px;
+}
